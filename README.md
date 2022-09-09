@@ -16,8 +16,8 @@ Fun facts about me: i love movies, coffe, music and soccer. My goal, in a mid te
 
 <div>
   <a href="https://github.com/JoaoMaiaBGM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMaiaBGM&count_private=true&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaiaBGM&layout=compact&langs_count=16&theme=dark"
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoMaiaBGM&count_private=true&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMaiaBGM&layout=compact&langs_count=16&theme=dark"
 >
 
 ## Techs that i Know about:
