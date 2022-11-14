@@ -29,6 +29,9 @@ Fun facts about me: i love movies, coffe, music and soccer. My goal, in a mid te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" align="center" alt="Joao-CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50" align="center" alt="Joao-React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" align="center" alt="Joao-Ts"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" align="center" alt="Joao-PSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" align="center" alt="Joao-Node" />
+  <img src="https://api.iconify.design/logos/typeorm.svg" width="50" height="50" align="center" alt="Joao-TypeORM"/>
 </div>
 
 ## Contact me:
