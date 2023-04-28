@@ -16,7 +16,10 @@ Fun facts about me: i love movies, coffe, music and soccer. My goal, in a mid te
 
 <div>
   <a href="https://github.com/JoaoMaiaBGM">
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoMaiaBGM&theme=react&line_height=40&hide=css"/> </a>
+  <a href=""> 
+  <img align="center" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=JoaoMaiaBGM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoMaiaBGM&theme=dark&line_height=40&hide=css"/> 
+  </a>
 
 ## Techs that i Know about:
 
