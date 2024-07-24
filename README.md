@@ -2,9 +2,7 @@
 
 Welcome to my github profile!
 
-I come without early programming  knowledges, but today, i'm a front end developer graduated at Kenzie Academy Brazil, after 6 months study.
-
-And studying back-end technologies to become a full-stack developer.
+I come without early programming  knowledges, but today, i'm a full-stack developer graduated at Kenzie Academy Brazil, after 12 months study.
 
 ⚡⚡
 
